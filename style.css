@@ -1,0 +1,66 @@
+
+.button-buy-now{
+    background-color: lightcoral;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+.carousel-indicators .active{
+    background-color: khaki;
+    width: 30px;
+    height: 5px;
+    border-radius: 5px;
+}
+
+
+.container{
+    margin-bottom: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.see-all{
+    text-decoration: yellow;
+    
+}
+.perfume{
+    background-color: whitesmoke;
+}
+.shoe{
+    background-color: whitesmoke;
+}
+.bag{
+    background-color: whitesmoke;
+}
+.perfume, .shoe, .bag{
+    text-align: center;
+    margin: 10% 0;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.pale-order img{
+    width: 100%;
+}
+.cat{
+    text-align: center;
+}
+hr{
+    border-bottom: solid yellow;
+    width: 150px;
+    border-radius: 5px;
+   
+}
+footer{
+    text-align: center;
+    background-color: thistle;
+}
+
